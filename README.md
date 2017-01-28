@@ -1,4 +1,4 @@
-       #To start chat server
+       # To start chat server
 
 
-           [CLick](http://secure-retreat-33035.herokuapp.com)
+           Click [here](http://secure-retreat-33035.herokuapp.com)
